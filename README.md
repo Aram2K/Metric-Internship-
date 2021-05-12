@@ -1,1 +1,1 @@
-This is my code on predicting the success or failure of a startup. I have used xgboost and RandomForest classifiers.
+This is my code on predicting the success or failure of a startup. I have used xgboost and RandomForest classifiers. You need to donwload all the files as there is changes done in excel file directly that is different from the original dataset.
